@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Nitish Kumar!
 
-Welcome to my GitHub profile! I'm passionate about **software development**, **AI**, and **robotics**. I love creating impactful solutions to real-world problems.
+Welcome to my GitHub profile! I'm passionate about **software development** and **AI**. I love creating impactful solutions to real-world problems.
+
+![computer-squirrel-thumbs-up-approval-5noe49cb8yt9ty59](https://github.com/user-attachments/assets/c8af72cf-ee50-420b-9181-a6d326842050)
 
 ---
 
