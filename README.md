@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about **software development** and 
 ---
 
 ## 📊 GitHub Stats
-![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=NitishKumar&show_icons=true&theme=radical)
+![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitishhrms&show_icons=true&theme=radical)
 
 ---
 
